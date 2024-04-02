@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vRobo
+Z0 !s110 1711834662
+!i10b 1
+!s100 iRiU6i?1lO=cJkNT;jFg>3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I7W^2LMhdU_U`W^>mTM>DH1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Miguel/Downloads/LABIA2024/LABIA2024/ModelSim/Atividade1
+w1711834659
+8C:/Users/Miguel/Downloads/LABIA2024/LABIA2024/ModelSim/Atividade1/Robo.v
+FC:/Users/Miguel/Downloads/LABIA2024/LABIA2024/ModelSim/Atividade1/Robo.v
+!i122 0
+L0 1 104
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1711834662.000000
+!s107 C:/Users/Miguel/Downloads/LABIA2024/LABIA2024/ModelSim/Atividade1/Robo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Miguel/Downloads/LABIA2024/LABIA2024/ModelSim/Atividade1/Robo.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@robo
+vRobo_TB
+R0
+!i10b 1
+!s100 mTD0Pi]X0ZnbbZJj>54A?0
+R1
+ISQWi=Mb]l`7?lK?Y]P_8I3
+R2
+R3
+w1710396438
+8C:/Users/Miguel/Downloads/LABIA2024/LABIA2024/ModelSim/Atividade1/Robo_TB.v
+FC:/Users/Miguel/Downloads/LABIA2024/LABIA2024/ModelSim/Atividade1/Robo_TB.v
+!i122 1
+L0 3 209
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Miguel/Downloads/LABIA2024/LABIA2024/ModelSim/Atividade1/Robo_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Miguel/Downloads/LABIA2024/LABIA2024/ModelSim/Atividade1/Robo_TB.v|
+!i113 1
+R6
+R7
+n@robo_@t@b

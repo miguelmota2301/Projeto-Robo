@@ -1,0 +1,355 @@
+# Compile of Robo.v was successful.
+# Compile of Robo_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.Robo_TB
+# vsim -gui work.Robo_TB 
+# Start time: 18:38:14 on Mar 30,2024
+# Loading work.Robo_TB
+# Loading work.Robo
+add wave -position insertpoint  \
+sim:/Robo_TB/N \
+sim:/Robo_TB/S \
+sim:/Robo_TB/L \
+sim:/Robo_TB/O \
+sim:/Robo_TB/clock \
+sim:/Robo_TB/reset \
+sim:/Robo_TB/head \
+sim:/Robo_TB/left \
+sim:/Robo_TB/avancar \
+sim:/Robo_TB/girar \
+sim:/Robo_TB/Mapa \
+sim:/Robo_TB/Linha_Mapa \
+sim:/Robo_TB/Linha_Robo \
+sim:/Robo_TB/Coluna_Robo \
+sim:/Robo_TB/Orientacao_Robo \
+sim:/Robo_TB/Qtd_Movimentos
+# Can't move the Now cursor.
+run
+# Linha =  4 Coluna =  3 Orientacao =        Movimentos =  25
+run
+# H = 0 L = 0
+run
+# Linha =  3 Coluna =  3 Orientacao =  Norte
+run
+# H = 0 L = 0
+run
+# Linha =  2 Coluna =  3 Orientacao =  Norte
+run
+# H = 1 L = 0
+run
+# Linha =  2 Coluna =  3 Orientacao =  Oeste
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Linha =  4 Coluna =  3 Orientacao =        Movimentos =  25
+run
+# H = 0 L = 0
+run
+# Linha =  3 Coluna =  3 Orientacao =  Norte
+run
+# H = 0 L = 0
+run
+# Linha =  2 Coluna =  3 Orientacao =  Norte
+run
+# H = 1 L = 0
+run
+# Linha =  2 Coluna =  3 Orientacao =  Oeste
+run
+# H = 0 L = 0
+run
+# Linha =  2 Coluna =  3 Orientacao =  Sul  
+run
+# H = 0 L = 0
+run
+# Linha =  2 Coluna =  3 Orientacao =  Leste
+run
+# H = 0 L = 1
+run
+# Linha =  2 Coluna =  4 Orientacao =  Leste
+run
+# H = 0 L = 1
+run
+# Linha =  2 Coluna =  5 Orientacao =  Leste
+run
+# H = 0 L = 1
+run
+# Linha =  2 Coluna =  6 Orientacao =  Leste
+run
+# H = 0 L = 1
+run
+# Linha =  2 Coluna =  7 Orientacao =  Leste
+run
+# H = 1 L = 1
+run
+# Linha =  2 Coluna =  7 Orientacao =  Norte
+run
+# H = 1 L = 0
+run
+# Linha =  2 Coluna =  7 Orientacao =  Oeste
+run
+# H = 0 L = 0
+run
+# Linha =  2 Coluna =  7 Orientacao =  Sul  
+run
+# H = 0 L = 1
+run
+# Linha =  3 Coluna =  7 Orientacao =  Sul  
+run
+# H = 1 L = 0
+run
+# Linha =  3 Coluna =  7 Orientacao =  Leste
+run
+# H = 0 L = 0
+run
+# Linha =  3 Coluna =  8 Orientacao =  Leste
+run
+# H = 1 L = 1
+run
+# Linha =  3 Coluna =  8 Orientacao =  Norte
+run
+# H = 1 L = 0
+run
+# Linha =  3 Coluna =  8 Orientacao =  Oeste
+run
+# H = 0 L = 0
+run
+# Linha =  3 Coluna =  8 Orientacao =  Sul  
+run
+# H = 0 L = 1
+run
+# Linha =  4 Coluna =  8 Orientacao =  Sul  
+run
+# H = 0 L = 1
+run
+# Linha =  5 Coluna =  8 Orientacao =  Sul  
+run
+# H = 0 L = 1
+run
+# Linha =  6 Coluna =  8 Orientacao =  Sul  
+run
+# H = 0 L = 0
+restart
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Linha =  4 Coluna =  3 Orientacao =        Movimentos =  25
+run
+# H = 0 L = 0
+run
+# Linha =  3 Coluna =  3 Orientacao =  Norte
+run
+# H = 0 L = 0
+run
+# Linha =  2 Coluna =  3 Orientacao =  Norte
+run
+# H = 1 L = 0
+run
+# Linha =  2 Coluna =  3 Orientacao =  Oeste
+run
+# H = 0 L = 0
+run
+# Linha =  2 Coluna =  3 Orientacao =  Sul  
+run
+# H = 0 L = 0
+run
+# Linha =  2 Coluna =  3 Orientacao =  Leste
+run
+# H = 0 L = 1
+run
+# Linha =  2 Coluna =  4 Orientacao =  Leste
+run
+# H = 0 L = 1
+run
+# Linha =  2 Coluna =  5 Orientacao =  Leste
+run
+# H = 0 L = 1
+run
+# Linha =  2 Coluna =  6 Orientacao =  Leste
+run
+# H = 0 L = 1
+run
+# Linha =  2 Coluna =  7 Orientacao =  Leste
+run
+# H = 1 L = 1
+run
+# Linha =  2 Coluna =  7 Orientacao =  Norte
+run
+# H = 1 L = 0
+run
+# Linha =  2 Coluna =  7 Orientacao =  Oeste
+run
+# H = 0 L = 0
+run
+# Linha =  2 Coluna =  7 Orientacao =  Sul  
+run
+# H = 0 L = 1
+run
+# Linha =  3 Coluna =  7 Orientacao =  Sul  
+run
+# H = 1 L = 0
+run
+# Linha =  3 Coluna =  7 Orientacao =  Leste
+run
+# H = 0 L = 0
+run
+# Linha =  3 Coluna =  8 Orientacao =  Leste
+run
+# H = 1 L = 1
+run
+# Linha =  3 Coluna =  8 Orientacao =  Norte
+run
+# H = 1 L = 0
+run
+# Linha =  3 Coluna =  8 Orientacao =  Oeste
+run
+# H = 0 L = 0
+run
+# Linha =  3 Coluna =  8 Orientacao =  Sul  
+run
+# H = 0 L = 1
+run
+# Linha =  4 Coluna =  8 Orientacao =  Sul  
+run
+# H = 0 L = 1
+run
+# Linha =  5 Coluna =  8 Orientacao =  Sul  
+run
+# H = 0 L = 1
+run
+# Linha =  6 Coluna =  8 Orientacao =  Sul  
+run
+# H = 0 L = 0
+run
+# Linha =  6 Coluna =  8 Orientacao =  Leste
+run
+# H = 0 L = 0
+run
+# Linha =  6 Coluna =  9 Orientacao =  Leste
+run
+# H = 0 L = 1
+run
+# Linha =  6 Coluna = 10 Orientacao =  Leste
+run
+# H = 0 L = 0
+run
+# Linha =  6 Coluna = 10 Orientacao =  Norte
+run
+# ** Note: $stop    : C:/Users/Miguel/Downloads/LABIA2024/LABIA2024/ModelSim/Atividade1/Robo_TB.v(60)
+#    Time: 5150 ns  Iteration: 0  Instance: /Robo_TB
+# Break in Module Robo_TB at C:/Users/Miguel/Downloads/LABIA2024/LABIA2024/ModelSim/Atividade1/Robo_TB.v line 60
+restart
+run
+# GetModuleFileName: Não foi possível encontrar o módulo especificado.
+# 
+# 
+# Linha =  4 Coluna =  3 Orientacao =        Movimentos =  25
+run
+# H = 0 L = 0
+run
+# Linha =  3 Coluna =  3 Orientacao =  Norte
+run
+# H = 0 L = 0
+run
+# Linha =  2 Coluna =  3 Orientacao =  Norte
+run
+# H = 1 L = 0
+run
+# Linha =  2 Coluna =  3 Orientacao =  Oeste
+run
+# H = 0 L = 0
+run
+# Linha =  2 Coluna =  3 Orientacao =  Sul  
+run
+# H = 0 L = 0
+run
+# Linha =  2 Coluna =  3 Orientacao =  Leste
+run
+# H = 0 L = 1
+run
+# Linha =  2 Coluna =  4 Orientacao =  Leste
+run
+# H = 0 L = 1
+run
+# Linha =  2 Coluna =  5 Orientacao =  Leste
+run
+# H = 0 L = 1
+run
+# Linha =  2 Coluna =  6 Orientacao =  Leste
+run
+# H = 0 L = 1
+run
+# Linha =  2 Coluna =  7 Orientacao =  Leste
+run
+# H = 1 L = 1
+run
+# Linha =  2 Coluna =  7 Orientacao =  Norte
+run
+# H = 1 L = 0
+run
+# Linha =  2 Coluna =  7 Orientacao =  Oeste
+run
+# H = 0 L = 0
+run
+# Linha =  2 Coluna =  7 Orientacao =  Sul  
+run
+# H = 0 L = 1
+run
+# Linha =  3 Coluna =  7 Orientacao =  Sul  
+run
+# H = 1 L = 0
+run
+# Linha =  3 Coluna =  7 Orientacao =  Leste
+run
+# H = 0 L = 0
+run
+# Linha =  3 Coluna =  8 Orientacao =  Leste
+run
+# H = 1 L = 1
+run
+# Linha =  3 Coluna =  8 Orientacao =  Norte
+run
+# H = 1 L = 0
+run
+# Linha =  3 Coluna =  8 Orientacao =  Oeste
+run
+# H = 0 L = 0
+run
+# Linha =  3 Coluna =  8 Orientacao =  Sul  
+run
+# H = 0 L = 1
+run
+# Linha =  4 Coluna =  8 Orientacao =  Sul  
+run
+# H = 0 L = 1
+run
+# Linha =  5 Coluna =  8 Orientacao =  Sul  
+run
+# H = 0 L = 1
+run
+# Linha =  6 Coluna =  8 Orientacao =  Sul  
+run
+# H = 0 L = 0
+run
+# Linha =  6 Coluna =  8 Orientacao =  Leste
+run
+# H = 0 L = 0
+run
+# Linha =  6 Coluna =  9 Orientacao =  Leste
+run
+# H = 0 L = 1
+run
+# Linha =  6 Coluna = 10 Orientacao =  Leste
+run
+# H = 0 L = 0
+run
+# Linha =  6 Coluna = 10 Orientacao =  Norte
+run
+# ** Note: $stop    : C:/Users/Miguel/Downloads/LABIA2024/LABIA2024/ModelSim/Atividade1/Robo_TB.v(60)
+#    Time: 5150 ns  Iteration: 0  Instance: /Robo_TB
+# Break in Module Robo_TB at C:/Users/Miguel/Downloads/LABIA2024/LABIA2024/ModelSim/Atividade1/Robo_TB.v line 60
+# End time: 02:02:17 on Mar 31,2024, Elapsed time: 7:24:03
+# Errors: 0, Warnings: 1
